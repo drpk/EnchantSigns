@@ -1,0 +1,10 @@
+name: ESigns
+main: me.yarocks.ESigns.Main
+depend: [Vault]
+description: to enchant items using signs!
+author: yarocks
+version: 1.1
+
+commands:
+   ESigns:
+      description: kewl
